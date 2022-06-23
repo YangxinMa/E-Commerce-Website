@@ -1,6 +1,5 @@
 //Command: tsc --target ES5 --noEmitOnError Customer.ts 
 
-export { };
 export class Customer {;
 
     constructor(private _firstName: string, private _lastName: string) {

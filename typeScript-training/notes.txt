@@ -1,3 +1,6 @@
 1. The get/set accessors feature in ES5 or higher only
     tsc --target ES5 --noEmitOnError Custonmer.ts
 
+2. Clean old .js file
+    tsc --build --clean
+
