@@ -1,5 +1,5 @@
 //Command: tsc --target ES5 --noEmitOnError Customer.ts 
-
+export { };
 
 class Customer {
     private _firstName: string;
