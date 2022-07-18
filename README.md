@@ -1,4 +1,8 @@
 ## E-Commerce-Website
+```
+    Create an online store web to allow users to purchase products.
+    This project is done by following the tutorial by Chad Darby in Udemy.
+```
 ## Steps should be taken to get the project working
 ### Backend
 ```
