@@ -2,8 +2,8 @@
 ```
     Create an online store web to allow users to purchase products.
     This project is done by following the tutorial by Chad Darby in Udemy.
-    ![This is an image](/Ecommerce.png)
 ```
+![This is an image](/Ecommerce.png)
 ## Steps should be taken to get the project working
 ### Backend
 ```
