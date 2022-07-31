@@ -1,6 +1,6 @@
 ## E-Commerce-Website
 ```
-    Create an online store web to allow users to purchase products.
+    Create an online store web to allow customer to purchase products.
     This project is done by following the tutorial by Chad Darby in Udemy.
 ```
 ![This is an image](/Ecommerce.png)
